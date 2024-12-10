@@ -3,8 +3,13 @@
 **Análisis de Pacientes Atendidos en un Hospital con KMeans**
 
 Descripción del Proyecto
-
 Este proyecto utiliza un conjunto de datos de pacientes atendidos en un hospital en Envigado para realizar un análisis de clustering utilizando el algoritmo KMeans implementado con PySpark. Además, se crea un modelo predictivo basado en PySpark para predecir el grupo al que pertenece cada paciente, utilizando como variable objetivo el clúster asignado.
+
+Las clasificaciones se basan en la vulnerabilidad económica y social de los pacientes, tomando como variables de importancia la edad, el estado civil y el nivel de educación. A partir de estas características, se clasificó a los pacientes en dos grupos principales:
+
+Necesidad moderada de apoyo
+
+Alta necesidad de apoyo
 
 **Fuente de Datos**
 
