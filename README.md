@@ -10,7 +10,7 @@ Este proyecto utiliza un conjunto de datos de pacientes atendidos en un hospital
 
 Los datos se obtuvieron de Datos Abiertos de Colombia.
 
-Columnas del Conjunto de Datos**:**
+Columnas del Conjunto de Datos **:**
 
 - SEXO: Sexo del paciente.
 
