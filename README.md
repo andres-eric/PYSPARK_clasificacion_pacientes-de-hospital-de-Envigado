@@ -1,30 +1,30 @@
-# PYSPARK_clasificacion_pacientes-de-hospital-de-Envigado
+### **PYSPARK_clasificacion_pacientes-de-hospital-de-Envigado**
 
-Análisis de Pacientes Atendidos en un Hospital con KMeans
+**Análisis de Pacientes Atendidos en un Hospital con KMeans**
 
 Descripción del Proyecto
 
 Este proyecto utiliza un conjunto de datos de pacientes atendidos en un hospital en Envigado para realizar un análisis de clustering utilizando el algoritmo KMeans implementado con PySpark. Además, se crea un modelo predictivo basado en PySpark para predecir el grupo al que pertenece cada paciente, utilizando como variable objetivo el clúster asignado.
 
-Fuente de Datos
+**Fuente de Datos**
 
 Los datos se obtuvieron de Datos Abiertos de Colombia.
 
 Columnas del Conjunto de Datos
 
-SEXO: Sexo del paciente.
+- SEXO: Sexo del paciente.
 
-ESTADO_CIVIL: Estado civil del paciente.
+- ESTADO_CIVIL: Estado civil del paciente.
 
-ZONA_RES: Zona de residencia.
+- ZONA_RES: Zona de residencia.
 
-MUN_RES: Municipio de residencia.
+- MUN_RES: Municipio de residencia.
 
-PAIS_NCTO: País de nacimiento.
+- PAIS_NCTO: País de nacimiento.
 
-EDAD: Edad del paciente.
+- EDAD: Edad del paciente.
 
-ESCOLARIDAD_PACIENTE: Nivel de escolaridad del paciente.
+- ESCOLARIDAD_PACIENTE: Nivel de escolaridad del paciente.
 
 ### **METODOLOGIA**
 
