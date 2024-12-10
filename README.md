@@ -35,19 +35,19 @@ Columnas del Conjunto de Datos **:**
 
 **1. Preprocesamiento de Datos**
 
-Conversión de variables categóricas a variables numéricas mediante transformaciones en PySpark.
+Conversión de variables categóricas a variables numéricas mediante transformaciones en PySpark DATAFRAME SQL.
 
-Estandarización de la variable numérica EDAD utilizando StandardScaler de PySpark ML.
 
-2. Clustering con KMeans
+**2. Clustering con KMeans**
 
-Se utiliza el algoritmo KMeans de PySpark ML para dividir a los pacientes en 5 clústeres.
+Se utiliza el algoritmo KMeans de PySpark ML para dividir a los pacientes en 5 clústeres, que se clasifican en dos categorias 
+Necesidad moderada de apoyo economico y Alta necesidad de apoyo economico.
 
-3. Modelo Predictivo
+**3. Modelo Predictivo**
 
 Se entrena un modelo de clasificación basado en PySpark ML para predecir el clúster al que pertenece cada paciente.
 
-Resultados
+**Resultados**
 
 Clustering: Los pacientes fueron agrupados en 5 clústeres, cada uno representando un tipo específico de características.
 
