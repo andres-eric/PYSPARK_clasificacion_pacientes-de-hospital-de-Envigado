@@ -7,9 +7,9 @@ Este proyecto utiliza un conjunto de datos de pacientes atendidos en un hospital
 
 Las clasificaciones se basan en la vulnerabilidad económica y social de los pacientes, tomando como variables de importancia la edad, el estado civil y el nivel de educación. A partir de estas características, se clasificó a los pacientes en dos grupos principales:
 
-Necesidad moderada de apoyo
+- Necesidad moderada de apoyo
 
-Alta necesidad de apoyo
+- Alta necesidad de apoyo
 
 **Fuente de Datos**
 
