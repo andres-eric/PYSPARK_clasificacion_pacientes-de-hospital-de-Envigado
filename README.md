@@ -12,19 +12,19 @@ Los datos se obtuvieron de Datos Abiertos de Colombia.
 
 Columnas del Conjunto de Datos **:**
 
-- SEXO: Sexo del paciente.
+- **SEXO** : Sexo del paciente.
 
-- ESTADO_CIVIL: Estado civil del paciente.
+- **ESTADO_CIVIL** : Estado civil del paciente.
 
-- ZONA_RES: Zona de residencia.
+- **ZONA_RES** : Zona de residencia.
 
-- MUN_RES: Municipio de residencia.
+- **MUN_RES** : Municipio de residencia.
 
-- PAIS_NCTO: País de nacimiento.
+- **PAIS_NCTO** : País de nacimiento.
 
-- EDAD: Edad del paciente.
+- **EDAD** : Edad del paciente.
 
-- ESCOLARIDAD_PACIENTE: Nivel de escolaridad del paciente.
+- **ESCOLARIDAD_PACIENTE** : Nivel de escolaridad del paciente.
 
 ### **METODOLOGIA**
 
