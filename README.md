@@ -26,9 +26,9 @@ EDAD: Edad del paciente.
 
 ESCOLARIDAD_PACIENTE: Nivel de escolaridad del paciente.
 
-Metodología
+**METODOLOGIA**
 
-1. Preprocesamiento de Datos
+**1. Preprocesamiento de Datos**
 
 Conversión de variables categóricas a variables numéricas mediante transformaciones en PySpark.
 
