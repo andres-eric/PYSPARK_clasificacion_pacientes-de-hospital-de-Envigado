@@ -26,7 +26,7 @@ EDAD: Edad del paciente.
 
 ESCOLARIDAD_PACIENTE: Nivel de escolaridad del paciente.
 
-**METODOLOGIA**
+### **METODOLOGIA**
 
 **1. Preprocesamiento de Datos**
 
